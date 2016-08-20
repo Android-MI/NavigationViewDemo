@@ -1,2 +1,2 @@
 # NavigationViewDemo
-ÕâÊÇÒ»¸ö²à»¬µÄDemo,Ê¹ÓÃµÄÊÇDrawerLayout+NavigationView×öµÄ£¬¼òµ¥ÇÒÊµÓÃ
+è¿™æ˜¯ä¸€ä¸ªä¾§æ»‘çš„Demo,ä½¿ç”¨çš„æ˜¯DrawerLayout+NavigationViewåšçš„ï¼Œç®€å•ä¸”å®ç”¨ï¼Œå¦‚æœ111
