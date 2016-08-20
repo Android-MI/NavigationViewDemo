@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/nav_city"
-        android:icon="@drawable/ic_location"
-        android:title="选择城市" />
-    <item
-        android:id="@+id/nav_multi_cities"
-        android:icon="@drawable/ic_multi_cities"
-        android:title="多城市管理" />
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_city"
+            android:icon="@drawable/ic_location"
+            android:title="选择城市" />
+        <item
+            android:id="@+id/nav_multi_cities"
+            android:icon="@drawable/ic_multi_cities"
+            android:title="多城市管理" />
+    </group>
+    <!--一个组的下面会有一条分割线-->
     <item
         android:id="@+id/nav_set"
         android:icon="@drawable/ic_menu_set"

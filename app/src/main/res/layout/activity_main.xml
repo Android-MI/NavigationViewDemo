@@ -33,6 +33,7 @@
             android:fitsSystemWindows="true"
             app:headerLayout="@layout/left_header"
             app:menu="@menu/left_menu"
+
             >
 
         </android.support.design.widget.NavigationView>
